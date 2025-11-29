@@ -19,7 +19,7 @@
       "package": "com.footballmate.app",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyDe2IX8bqrg1XFV6ZBQeSgzSFvawyQFgks"
+          "apiKey": ""
         }
       }
     },
